@@ -4,6 +4,8 @@ organization := "com.github.walfie"
 
 name := "granblue-twitter"
 
+enablePlugins(JavaAppPackaging)
+
 libraryDependencies ++= Seq(
   "org.twitter4j" % "twitter4j-core" % "4.0.4",
   "org.twitter4j" % "twitter4j-stream" % "4.0.4"
