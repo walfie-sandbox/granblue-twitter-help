@@ -18,7 +18,9 @@ object Application {
       "Agni" -> "アグニス",
       "Neptune" -> "ネプチューン",
       "Titan" -> "ティターン",
-      "Zephyrus" -> "ゼピュロス"
+      "Zephyrus" -> "ゼピュロス",
+      "Revenge of Bonito" -> "モドリカツウォヌス",
+      "Bonito" -> "カツウォヌス"
     )
 
     override def onStatus(status: Status): Unit = {
