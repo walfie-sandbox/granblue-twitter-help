@@ -21,7 +21,8 @@ object Application {
       "Zephyrus" -> "ゼピュロス",
       "Revenge of Bonito" -> "モドリカツウォヌス",
       "Bonito" -> "カツウォヌス",
-      "Gugalanna" -> "グガランナ"
+      "Gugalanna" -> "グガランナ",
+      "Viridian Horn" -> "エメラルドホーン"
     )
 
     override def onStatus(status: Status): Unit = {
