@@ -1,2 +1,2 @@
-worker: target/universal/stage/bin/granblue-twitter
+worker: target/universal/stage/bin/granblue-twitter-help
 

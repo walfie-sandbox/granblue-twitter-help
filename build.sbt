@@ -2,7 +2,7 @@ scalaVersion := "2.11.8"
 
 organization := "com.github.walfie"
 
-name := "granblue-twitter"
+name := "granblue-twitter-help"
 
 enablePlugins(JavaAppPackaging)
 
